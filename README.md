@@ -1,4 +1,4 @@
-# HangmanGame
+# Hangman Game
 This is a terminal based game I created as part of a Python Bootcamp Class @ Hackbright Academy in San Francsico. 
 The game is a pirate themed version of the classic hangman game.
 
